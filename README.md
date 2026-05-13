@@ -2,7 +2,7 @@
 
 Este repositorio contiene la solución a diversos problemas de estructuras de datos no lineales, enfocándose en la implementación de árboles N-arios y Binarios tanto en **Java** como en **C++**.
 
-## 🚀 Implementaciones Realizadas
+##  Implementaciones Realizadas
 
 Se han completado los 5 ejercicios propuestos, aplicando conceptos de recursividad y manipulación de punteros/referencias:
 
@@ -28,15 +28,24 @@ Se han completado los 5 ejercicios propuestos, aplicando conceptos de recursivid
 
 ---
 
-## 🛠️ Instrucciones de Ejecución
+##  Instrucciones de Ejecución
 
 ### Para C++
 Navega a la carpeta `cpp/` y utiliza un compilador como g++:
 ```bash
 g++ NombreArchivo.cpp -o programa
 ./programa
+```
 
-### Para java
+### Para Java
+Navega a la carpeta `java/` y utiliza el JDK:
+```bash
 # Nota: Algunos ejercicios requieren compilar Ejercicio2_Binario.java por la clase Nodo
 javac Ejercicio2_Binario.java NombreArchivo.java
 java NombreClase
+```
+
+---
+
+##  Resultados
+Todos los algoritmos han sido probados con los casos de prueba incluidos en el código, verificando que los resultados calculados coincidan con los resultados esperados impresos en consola.
